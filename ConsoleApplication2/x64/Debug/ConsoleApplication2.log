@@ -1,0 +1,6 @@
+﻿  ConsoleApplication2.cpp
+c:\users\днс\source\repos\snake\consoleapplication2\consoleapplication2.cpp(52): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\днс\source\repos\snake\consoleapplication2\consoleapplication2.cpp(167): warning C4305: =: усечение из "double" в "float"
+c:\users\днс\source\repos\snake\consoleapplication2\consoleapplication2.cpp(178): warning C4244: =: преобразование "double" в "clock_t", возможна потеря данных
+c:\users\днс\source\repos\snake\consoleapplication2\consoleapplication2.cpp(192): warning C4244: =: преобразование "float" в "clock_t", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\ДНС\source\repos\Snake\x64\Debug\ConsoleApplication2.exe
